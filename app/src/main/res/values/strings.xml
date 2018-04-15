@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">French Quiz App</string>
+    <string name="welcome">Let\'s Match English and French Words!</string>
+    <string name="name">Name</string>
+    <string name="q1">Question 1 : a man</string>
+    <string name="a1a">une femme</string>
+    <string name="a1b">un homme</string>
+    <string name="a1c">un enfant</string>
+    <string name="a1d">une fille</string>
+    <string name="q2">Question 2 : the dress</string>
+    <string name="a2a">la jupe</string>
+    <string name="a2b">le cheval</string>
+    <string name="a2c">le chien</string>
+    <string name="a2d">la robe</string>
+    <string name="q3">Question 3 : they</string>
+    <string name="a3a">ils</string>
+    <string name="a3b">notre</string>
+    <string name="a3c">elles</string>
+    <string name="q4">Question 4 : what</string>
+    <string name="a4a">que</string>
+    <string name="a4b">qui</string>
+    <string name="a4c">quoi</string>
+    <string name="q5">Question 5 : this</string>
+    <string name="a5a">cette</string>
+    <string name="a5b">ce</string>
+    <string name="a5c">ces</string>
+    <string name="q6">Question 6 : a bicycle</string>
+    <string name="a6a">un velo</string>
+    <string name="q6hint">Your answer</string>
+    <string name="submit">submit</string>
+</resources>
